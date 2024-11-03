@@ -1,5 +1,5 @@
 {
-  "name": "CHATBOT-SINDACSPE",
+  "name": "chatbot-sindacspe",
   "version": "1.0.0",
   "description": "A simple WhatsApp bot using whatsapp-web.js",
   "main": "index.js",
