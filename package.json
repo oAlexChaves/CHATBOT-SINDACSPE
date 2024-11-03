@@ -1,0 +1,18 @@
+{
+  "name": "CHATBOT-SINDACSPE",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp bot using whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "engines": {
+    "node": ">=16.x"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
